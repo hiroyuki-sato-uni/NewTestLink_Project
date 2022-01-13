@@ -7,5 +7,3 @@ NewTestLink Viewer
 ### Platform
 - Google Chtome
 - Microsoft Edge
-- Firefox
-- Safari
